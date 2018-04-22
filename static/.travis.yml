@@ -1,9 +1,0 @@
-matrix:
-  include:
-  - os: linux
-    dist: trusty
-    sudo: false
-    env:
-    - builder=travis
-script:
-- ls -lh index.html
