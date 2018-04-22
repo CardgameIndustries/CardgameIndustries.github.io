@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "path---tags-hello-world": [
+      "path---tags-hello-world-23b00c2489a37c975630.js",
+      "path---tags-hello-world-23b00c2489a37c975630.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---categories-moar": [
+      "path---categories-moar-7132023815eee4c47570.js",
+      "path---categories-moar-7132023815eee4c47570.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-07285030f8f773633049.js",
+      "component---src-layouts-index-jsx-07285030f8f773633049.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---h-3110-w-0-r-1-d": [
+      "path---h-3110-w-0-r-1-d-4925fc5bcf66064e24f9.js",
+      "path---h-3110-w-0-r-1-d-4925fc5bcf66064e24f9.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-648cc4f90143069a8c0a.js",
+      "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
+    ],
+    "path---index": [
+      "path---index-9369bb84258d759edef2.js",
+      "path---index-9369bb84258d759edef2.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
+      "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js.map"
+    ],
+    "commons": [
+      "commons-db6dad25ebd039bf15c0.js",
+      "build-js-styles.css",
+      "commons-db6dad25ebd039bf15c0.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-templates-tag-jsx": [
+      "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js",
+      "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-90201715f0e68c53696e.js",
+      "component---src-templates-post-jsx-90201715f0e68c53696e.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js",
+      "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js.map"
+    ],
+    "app": [
+      "app-caa5d8f1945d01b82cff.js",
+      "build-js-styles.css",
+      "app-caa5d8f1945d01b82cff.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
