@@ -4,4 +4,4 @@
 
 [![Build Status](https://travis-ci.org/CardgameIndustries/CardgameIndustries.github.io.svg?branch=gatsby)](https://travis-ci.org/CardgameIndustries/CardgameIndustries.github.io)
 
-Incubating cardgames
+Incubating cardgames using a simply yaml inventory file.
