@@ -1,5 +1,5 @@
 ---
-title: "H3110_W0R1D"
+title: "H3110_W0R1D!!!"
 cover: "https://picsum.photos/500/400/?image=1076"
 category: "moar"
 date: "04/22/2018"
